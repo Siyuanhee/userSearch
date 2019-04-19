@@ -1,0 +1,98 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-size: 14pt;
+}
+
+body {
+    background: aquamarine;
+    font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+main {
+    max-width: 75%;
+    margin: auto;
+}
+
+header {
+    border-bottom: 1px solid #afafaf;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #222;
+    margin-bottom: 5px;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1.25rem;
+}
+
+h5 {
+    font-size: 1.15rem;
+}
+
+h6 {
+    font-size: 1.05rem;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 2;
+}
+
+label {
+    font-weight: bold;
+}
+
+dt{
+    font-size: 1.5rem;
+}
+dd{
+    font-size: 1.5rem;
+}
+.error {
+    color: red;
+}
+.no-match{
+    color: red;
+}
+
+.people-list{
+    font-size: 2.0rem;
+    color: tomato;
+}
+.supplied-person{
+    font-size: 2.0rem;
+    color: brown;
+}
+.describe p{
+    font-size: 1.5rem;
+}
+
+.home-head{
+    font-size: 3.0rem;
+}
+
+.describe{
+    background: #afafaf;
+}
